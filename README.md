@@ -60,7 +60,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 For AI Chat functionality, you'll need a Google Gemini API key:
 - Get your key from: https://makersuite.google.com/app/apikey
-- Replace the API key in `Pages/AI Financial Advisor Chat.py` (line 739)
+- Replace the API key 
 
 ## 📊 Sample Data Format
 
