@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Databases
+*.db
+
+# Optional (recommended to ignore for privacy/size)
+# Uncomment if you want to keep these out of GitHub
+data/
+models/
+model_metadata/
