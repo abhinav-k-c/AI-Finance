@@ -12,18 +12,16 @@ A comprehensive personal finance management application with AI-powered insights
 - **Investment Insights**: Real-time market data, stock predictions, portfolio tracking
 - **Stock Predictions**: ML-based price predictions with technical indicators
 
-## 📋 Prerequisites
-
 - Python 3.8 or higher
 - pip (Python package installer)
 
 ## 🛠️ Installation
 
-1. **Clone or navigate to the project directory**
+1. **Clone the repository**
    ```bash
-   cd "/Users/a36437/Desktop/AI Finance"
-   ```
-
+   git clone https://github.com/abhinav-k-c/AI-Finance.git
+   cd AI-Finance
+   
 2. **Create a virtual environment (recommended)**
    ```bash
    python -m venv venv
