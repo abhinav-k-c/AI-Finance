@@ -369,7 +369,7 @@ def market_overview_dashboard():
         commodity_data = get_commodity_data()
     
     if not market_data and not commodity_data:
-        st.error("Unable to fetch market data. Please check your internet connection.")
+        st.error("Unable to fetch market data. (Yahoo Finance may be rate-limiting / HTTP 429). Please try again later.")
         return
     
     # Market indices
